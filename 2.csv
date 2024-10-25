@@ -1,0 +1,83 @@
+,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+0,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+1,32,FS 100 C,Seminar I,4,TR 9:00-10:25 AM in CL3-09,Jeff Walton,FY,14,8,0
+2,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+3,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+4,113,ECON 103,(CLOSED)Principles of Economics,3,TR 9:00-10:25 AM in LEC-LC,Daniel Neilson,FY,35,35,0
+5,93,ENVS 100,Introduction to Environmental Studies,4,TR 9:00-10:25 AM in FSH-211 and T 2:40-5:35 PM in FSH-211A,Donald McClelland,FY,15,7,0
+6,149,ENVS 108/209,Aquatic Ecology,4,TR 9:00-10:25 AM and R 9:00-11:55 AM in FSH-131,Thomas Coote,FY,15,7,0
+7,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+8,168,SART 115M 1,Introduction to Ikebana,2,TR 9:00-10:25 AM in FAR-MAIN,Brian Mikesell,FY,10,8,0
+9,14,CHIN 100,Chinese Language & Context I,4,MW 8:30-9:55 AM and R 9:00-10:25 AM in LIE-01,Christopher Coggins,FY,15,8,0
+10,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+11,136,BIO 100L A,Introduction to Biology Lab,0,T 9:00-11:55 AM in FSH-202,Daniel Wendekier,FY,15,12,0
+12,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+13,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+14,149,ENVS 108/209,Aquatic Ecology,4,TR 9:00-10:25 AM and R 9:00-11:55 AM in FSH-131,Thomas Coote,FY,15,7,0
+15,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+16,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+17,193,SPAN 100 A,Spanish Language & Context I,4,TR 10:35-11:30 AM and MW 10:05-11:30 AM in LIE-02,Daniel Giraldo-Wonders,FY,15,6,0
+18,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+19,191,FS 100 D,Seminar I,4,TR 10:35-12:00 PM in DAC-135,Em Rooney,FY,14,11,1
+20,10,ANTH 232,"WCP City Life: Anthropology, People, and Place at Home and Abroad",3,TR 10:35-12:00 PM in CL1-03,Kathryn Boswell,FY,15,7,0
+21,248,ARTH 255AM 1,"History of Architecture and Decor, A Visual Survey of 5000 Years - Part I",2,TR 10:35-12:00 PM in DAC-125,John Musall,FY,15,9,0
+22,249,ARTH 255BM 2,"History of Architecture and Decor, A Visual Survey of 5000 Years - Part II",2,TR 10:35-12:00 PM in DAC-125,John Musall,FY,15,6,0
+23,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+24,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+25,28,WS 213,WCP Women Write the World (OSUN),3,TR 10:35-12:00 PM in ONL-,Jennifer Browdy,FY,20,16,0
+26,60,HIST 147,"W Freedom Struggles: Introduction to U.S. History I, 1600-1877",3,TR 10:35-12:00 PM in CL3-14,Justin Jackson,FY,15,4,0
+27,184,LR 132M 2,Laboratories and Libraries: The Lifecycles of Scientific Information,1 p/f,T 10:35-12:00 PM in CL1-04,Herbie Pollard and KellyAnne McGuire,FY,15,5,0
+28,58,MUS 237/337,Music Performance Workshop,3/4,TR 10:35-12:00 PM in KLG,Manon Hutton-DeWys,FY,15,7,0
+29,62,PHOT 102,Photography Foundations,3,TR 10:35-12:00 PM in DAC-025,Daniel Karp,FY,12,8,0
+30,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+31,98,THEA 232,WCP Women Playwrights Speak Outloud (OSUN),3,TR 10:35-12:00 PM in ONL-,Aimee Michel,FY,10,5,0
+32,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+33,170,ANTH 238,WCP Media Anthropology,3,TR 1:05-2:30 PM in CL1-03,Kathryn Boswell,FY,15,8,0
+34,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+35,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+36,52,DANC 121/221,Dance Fundamentals,3,TR 1:05-2:30 PM in DAC-108,Kati Garcia-Renart,FY,15,14,0
+37,16,FILM 110,Introduction to Film and Media Production,3,TR 1:05-2:30 PM in DAC-125,Molly Cooper,FY,12,11,0
+38,173,LIT 150,Introduction to Creative Writing,3,TR 1:05-2:30 PM in CL3-14,Kate Glavin,FY,15,11,1
+39,263,PHIL 206,"CP Philosophies and Religions of East Asia: Buddhism, Daoism, Confucianism, and Shinto",3,TR 1:05-2:30 PM in CL3-10,Christopher Coggins,FY,15,10,0
+40,167,SOCS 224,(CLOSED)CP Globalization,3,TR 1:05-2:30 PM in CL1-04,Francisca Oyogoa,FY,15,15,0
+41,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+42,22,SART 118M 1,Contemporary Drawing,2,TR 1:05-2:30 PM in DAC-024,Jacob Fossum,FY,12,5,0
+43,23,SART 118M 2,Contemporary Drawing,2,TR 1:05-2:30 PM in DAC-024,Jacob Fossum,FY,12,1,0
+44,203,THEA 103/203,"Foundations of Acting: Action, Movement & Character",3,TR 1:05-2:30 PM in DAC-002,Sara Katzoff,FY,15,4,0
+45,156,THEA 108/208/308,Costume Design & Execution,3/4,TR 1:05-2:30 PM in DAC-018,George Veale,FY,12,4,0
+46,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+47,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+48,97,NATS 116,Forensic Science,4,R 1:05-4:05 PM and MW 2:40-4:05 PM in FSH-202,Susan Mechanic-Meyers,FY,15,9,0
+49,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+50,29,FS 100 E,(CLOSED)Seminar I,4,TR 2:40-4:05 PM in CL3-09,Jeff Walton,FY,14,15,0
+51,108,MUS 227/327,CP Music in World Cultures,3/4,TR 2:40-4:05 PM in DAC-128,John Myers,FY,15,8,0
+52,169,PSYC 105M 1,Restorative Horticulture,2,TR 2:40-4:05 PM in FAR-MAIN,Brian Mikesell,FY,15,7,0
+53,155,SART 119M 2,(CLOSED)Leathercraft,2,TR 2:40-4:05 PM in DAC-018,George Veale,FY,8,8,1
+54,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+55,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+56,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+57,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+58,34,ESL 100,English for Academic Success 1,3,TR 2:40-4:05 PM in HCC-CONF,Mark Hopkins,FY,15,4,0
+59,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+60,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+61,137,BIO 100L B,(CLOSED)Introduction to Biology Lab,0,T 2:40-5:35 PM in FSH-202,Daniel Wendekier,FY,15,15,0
+62,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+63,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+64,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+65,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+66,93,ENVS 100,Introduction to Environmental Studies,4,TR 9:00-10:25 AM in FSH-211 and T 2:40-5:35 PM in FSH-211A,Donald McClelland,FY,15,7,0
+67,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+68,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+69,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+70,133,FS 100 F,(CLOSED)Seminar I,4,TR 4:15-5:40 PM in DAC-128,Dien Vo,FY,14,15,0
+71,247,LIT 100,Guest Writers,2 p/f,TR 4:15-5:40 PM in HCC-CONF,Fiona Wilson,FY,15,3,0
+72,46,LIT 243,WCP Tales of the Fantastic in the Hispanophone World,3,TR 4:15-5:40 PM in CL3-13,David Franco Arabia,FY,15,7,0
+73,151,PHOT 101/201,Darkroom Photography I,3,TR 4:15-5:40 PM in DAC-025,Em Rooney,FY,12,8,0
+74,117,SOC 115,"(CLOSED)CP Race, Ethnicity, Class, and Gender",3,TR 4:15-5:40 PM in CL1-03,Francisca Oyogoa,FY,15,16,0
+75,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+76,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+77,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+78,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+79,85,MUS 289,Chamber Orchestra,1 p/f,R 7:00-8:30 PM in KLG-,Anne Legene,FY,20,6,0
+80,CRN,Course Number,Title,Credits,Day/Time/Room,Instructor,FY,Max,Current,Wait
+81,111,MUS 222,Jazz Ensemble,1 p/f,T 7:30-9:00 PM in KLG-,John Myers,FY,30,9,0
