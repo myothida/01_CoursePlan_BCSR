@@ -3,13 +3,13 @@
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
 7,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
 8,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-9,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+9,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,16,0
 10,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
 14,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
 15,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
 17,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-19,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-20,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+19,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+20,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
 21,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
 22,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
 23,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
@@ -17,22 +17,22 @@
 26,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
 27,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
 35,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-37,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+37,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
 39,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-40,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-42,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+40,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
+42,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
 49,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
 52,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
 54,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
 58,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-59,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+59,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
 61,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
 63,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
 66,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
 67,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
 68,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
 70,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-78,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+78,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
 81,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
 86,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
 87,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
@@ -45,15 +45,15 @@
 110,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
 111,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
 115,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-120,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+120,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
 121,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-123,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+123,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
 131,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
 132,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
 138,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
 142,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-143,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-149,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+143,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
+149,238,SOCS 309M 2,(CLOSED)Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,16,0
 154,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
 162,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
 163,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
@@ -64,7 +64,7 @@
 171,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
 172,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
 173,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-175,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+175,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
 176,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
 183,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
 185,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
@@ -74,39 +74,39 @@
 226,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
 227,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
 228,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-230,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-231,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-232,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+230,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+231,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
+232,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
 233,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
 234,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-235,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+235,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
 236,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
 237,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
 242,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
 243,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
 244,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-245,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+245,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
 253,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-261,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+261,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
 274,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
 277,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-291,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-293,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+291,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
+293,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
 294,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-296,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+296,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,16,0
 297,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
 298,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
 299,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-300,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+300,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
 301,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
 302,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
 303,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
 304,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
 313,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
 340,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-344,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+344,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
 345,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-346,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+346,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
 347,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
 348,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
 349,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
@@ -117,11 +117,11 @@
 357,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
 358,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
 359,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-363,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-369,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+363,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
+369,238,SOCS 309M 2,(CLOSED)Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,16,0
 381,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
 382,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-383,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+383,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
 386,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
 389,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
 392,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
@@ -134,9 +134,9 @@
 407,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
 409,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
 413,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-433,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+433,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
 461,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-470,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+470,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
 475,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
 476,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
 478,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
@@ -147,539 +147,881 @@
 494,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
 495,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
 497,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-501,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-502,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+501,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+502,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
 503,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-506,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+506,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
 508,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
 509,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-510,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+510,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
 511,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
 512,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
 513,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-515,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+515,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
 516,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
 517,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
 518,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
 529,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
 545,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-556,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-557,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-558,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-559,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-564,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-565,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-568,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+557,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+558,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+559,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+560,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
+565,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
+566,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+569,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-572,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-573,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-574,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-575,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-579,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-580,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-582,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-584,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-585,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-586,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-587,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-588,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-589,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-591,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-592,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-600,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-602,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-604,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-605,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-607,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-614,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-617,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-619,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-623,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-624,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-626,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-628,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-631,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-632,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-633,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-635,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-643,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-646,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-651,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-652,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-653,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-655,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-659,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-661,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-667,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-668,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-675,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-676,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-680,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-685,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-686,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-688,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-696,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-697,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-703,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-707,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-708,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-714,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-719,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-727,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-728,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-729,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-730,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-732,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-735,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-736,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-737,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-738,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-740,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-741,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-748,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-750,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-779,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-789,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-790,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-791,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-792,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-793,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-795,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-796,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-797,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-798,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-799,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-800,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-801,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-802,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-807,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-808,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-809,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-810,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-818,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-826,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-839,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-842,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-856,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-858,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-859,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-861,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-862,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-863,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-864,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-865,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-866,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-867,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-868,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-869,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-878,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-905,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-909,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-910,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-911,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-912,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-913,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-914,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-916,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+573,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+574,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+575,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,16,0
+576,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+580,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+581,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+583,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+585,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+586,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
+587,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+588,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+589,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+590,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+592,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+593,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+601,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+603,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
+605,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+606,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
+608,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
+615,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+618,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+620,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+624,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+625,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
+627,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+629,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+632,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+633,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+634,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+636,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+644,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
+647,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+652,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+653,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+654,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+656,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+660,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+662,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+668,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+669,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+676,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+677,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+681,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+686,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+687,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+689,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
+697,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+698,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+704,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+708,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+709,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
+715,238,SOCS 309M 2,(CLOSED)Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,16,0
+720,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+728,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+729,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+730,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+731,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+733,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+736,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+737,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+738,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+739,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+741,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
+742,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+749,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+751,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+780,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+790,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+791,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+792,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+793,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+794,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+796,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+797,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
+798,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+799,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+800,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+801,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
+802,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+803,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+808,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+809,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+810,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+811,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
+819,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+827,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
+840,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+843,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+857,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,5,0
+859,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
+860,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+862,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,16,0
+863,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+864,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+865,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+866,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
+867,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+868,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+869,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+870,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+879,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+906,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+910,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
+911,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+912,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
+913,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+914,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+915,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+917,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-920,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-921,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-922,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-923,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-924,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-928,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-934,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-946,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-947,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-948,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-951,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-954,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-957,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-958,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-960,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-962,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-965,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-966,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-971,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-972,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-974,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-978,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-998,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1026,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1035,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1040,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1041,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1043,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1045,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1054,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1055,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1058,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1059,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1060,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1062,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1066,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1067,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1068,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1071,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1073,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1074,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1075,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1076,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1077,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1078,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1080,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1081,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1082,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1083,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1094,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+921,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+922,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+923,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+924,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+925,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+929,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
+935,238,SOCS 309M 2,(CLOSED)Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,16,0
+947,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+948,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+949,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
+952,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+955,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+958,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+959,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+961,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+963,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+966,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+967,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+972,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+973,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+975,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+979,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+999,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,4,0
+1027,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1036,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,5,0
+1041,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1042,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1044,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1046,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1055,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1056,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1059,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1060,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1061,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1063,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1067,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,9,0
+1068,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,11,0
+1069,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1072,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,7,1
+1074,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1075,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1076,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,4,0
+1077,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1078,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1079,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1081,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,12,0
+1082,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1083,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1084,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1095,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1110,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1121,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1122,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1123,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1124,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-1129,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1130,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1131,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1111,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1123,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1124,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1125,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1126,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,4,0
+1131,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,9,0
+1132,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1133,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1132,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1133,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-1134,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-1135,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1136,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-1137,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-1138,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1139,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1140,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1141,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-1142,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-1143,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1144,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1145,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1146,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1147,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1148,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1149,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1150,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1151,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1152,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-1153,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-1154,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1155,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1156,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1134,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1135,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1136,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1137,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1138,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1139,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1140,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1141,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1142,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1143,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1144,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1145,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1146,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1147,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1148,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1149,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1150,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1151,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1152,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1153,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1154,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1155,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1156,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
 1157,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1158,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-1159,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1160,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1161,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1162,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-1163,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1164,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1165,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1166,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1167,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1168,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1169,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-1170,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1171,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-1172,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1173,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-1174,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1175,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-1176,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1177,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1178,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1179,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-1180,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1181,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-1182,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1183,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1184,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-1185,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1186,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-1187,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1188,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-1189,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1190,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1191,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1192,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1193,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1194,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1195,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1196,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1197,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1198,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1199,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1200,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1201,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1202,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-1203,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1204,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-1205,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1206,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1207,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1208,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1209,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1210,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-1211,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1212,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1213,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1214,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-1215,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-1216,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1217,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-1218,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1219,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-1220,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-1221,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1222,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1223,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-1224,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-1225,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-1226,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1227,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1228,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1229,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1230,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1231,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-1232,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1233,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1234,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1235,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1236,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1237,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1238,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1239,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1240,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1241,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1158,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1159,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1160,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1161,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1162,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1163,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1164,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1165,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1166,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1167,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1168,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1169,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1170,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1171,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1172,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1173,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1174,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1175,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1176,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1177,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1178,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1179,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1180,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1181,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1182,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1183,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1184,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1185,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1186,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1187,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1188,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1189,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1190,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1191,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1192,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1193,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1194,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1195,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1196,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1197,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1198,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1199,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1200,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1201,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1202,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1203,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1204,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1205,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1206,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1207,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1208,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1209,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1210,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1211,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1212,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1213,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1214,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1215,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1216,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1217,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1218,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1219,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1220,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1221,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1222,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1223,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1224,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1225,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1226,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1227,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1228,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1229,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1230,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1231,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1232,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1233,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1234,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1235,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1236,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1237,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1238,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1239,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1240,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1241,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1242,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1243,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1242,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-1243,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-1244,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-1245,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-1246,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-1247,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1248,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-1249,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-1250,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1251,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1252,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-1253,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1254,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1255,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1256,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1257,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1258,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1259,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1260,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1261,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1262,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1263,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1264,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1265,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1266,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1267,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1268,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1269,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1270,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1271,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1272,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1273,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1274,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1275,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1276,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1277,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1278,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1279,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1280,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1281,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1282,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1283,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1284,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1285,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1286,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1287,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1288,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1289,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1290,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1291,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1244,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1245,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1246,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1247,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1248,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1249,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1250,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1251,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1252,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1253,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1254,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1255,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1256,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1257,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1258,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1259,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1260,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1261,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1262,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1263,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1264,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1265,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1266,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1267,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1268,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1269,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1270,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1271,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1272,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1273,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1274,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1275,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1276,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1277,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1278,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1279,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1280,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1281,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1282,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1283,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1284,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1285,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1286,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1287,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1288,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1289,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1290,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1291,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1292,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1293,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1292,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1293,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1294,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1295,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1296,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-1297,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1298,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1299,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1294,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1295,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1296,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1297,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1298,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1299,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1300,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1301,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1300,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1301,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-1302,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-1303,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1304,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-1305,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-1306,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1307,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1308,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1309,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-1310,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-1311,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1312,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1313,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1314,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1315,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1316,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1317,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1318,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1319,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1320,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-1321,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-1322,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1323,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1324,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1302,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1303,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1304,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1305,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1306,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1307,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1308,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1309,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1310,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1311,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1312,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1313,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1314,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1315,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1316,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1317,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1318,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1319,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1320,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1321,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1322,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1323,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1324,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
 1325,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1326,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-1327,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1328,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1329,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1330,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-1331,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1332,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1333,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1334,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1335,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1336,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1337,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-1338,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1339,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-1340,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1341,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-1342,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1343,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-1344,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1345,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1346,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1347,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-1348,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1349,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-1350,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1351,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1352,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-1353,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1354,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-1355,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1356,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-1357,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1358,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1359,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1360,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1361,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1362,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1363,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1364,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1365,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1366,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1367,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1368,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
-1369,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
-1370,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
-1371,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
-1372,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
-1373,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1374,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1375,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1376,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1377,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1378,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-1379,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
-1380,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
-1381,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1382,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
-1383,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
-1384,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1385,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
-1386,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1387,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
-1388,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
-1389,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
-1390,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1391,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
-1392,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
-1393,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
-1394,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1395,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1396,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1397,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1398,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1399,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
-1400,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1401,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1402,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
-1403,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1404,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1405,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1406,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
-1407,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1408,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1409,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1326,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1327,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1328,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1329,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1330,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1331,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1332,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1333,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1334,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1335,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1336,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1337,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1338,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1339,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1340,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1341,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1342,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1343,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1344,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1345,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1346,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1347,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1348,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1349,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1350,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1351,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1352,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1353,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1354,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1355,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1356,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1357,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1358,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1359,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1360,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1361,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1362,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1363,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1364,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1365,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1366,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1367,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1368,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1369,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1370,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1371,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1372,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1373,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1374,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1375,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1376,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1377,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1378,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1379,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1380,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1381,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1382,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1383,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1384,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1385,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1386,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1387,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1388,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1389,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1390,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1391,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1392,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1393,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1394,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1395,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1396,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1397,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1398,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1399,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1400,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1401,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1402,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1403,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1404,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1405,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1406,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1407,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1408,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1409,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1410,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1411,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1410,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
-1411,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
-1412,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
-1413,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
-1414,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
-1415,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1416,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
-1417,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
-1418,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1419,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1420,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
-1421,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
-1422,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1423,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1424,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1425,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1426,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1427,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1428,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1429,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1430,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1431,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1432,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
-1433,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
-1434,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
-1435,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
-1436,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
-1437,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
-1438,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
-1439,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1440,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
-1441,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
-1442,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
-1443,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
-1444,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
-1445,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
-1446,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
-1447,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
-1448,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
-1449,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
-1450,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
-1451,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
-1452,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
-1453,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
-1454,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
-1455,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
-1456,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
-1457,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
-1458,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
-1459,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+1412,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1413,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1414,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1415,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1416,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1417,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1418,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1419,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1420,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1421,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1422,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1423,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1424,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1425,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1426,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1427,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1428,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1429,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1430,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1431,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1432,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1433,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1434,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1435,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1436,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1437,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1438,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1439,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1440,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1441,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1442,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1443,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1444,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1445,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1446,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1447,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1448,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1449,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1450,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1451,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1452,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1453,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1454,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1455,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1456,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1457,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1458,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1459,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1460,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1461,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
                               Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
-1460,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
-1461,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
-1462,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
-1463,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
-1464,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
-1465,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
-1466,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1462,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1463,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1464,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1465,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1466,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1467,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1468,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1469,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1470,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1471,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1472,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1473,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1474,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1475,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1476,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1477,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1478,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1479,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1480,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1481,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1482,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1483,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1484,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1485,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1486,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1487,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1488,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1489,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1490,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1491,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1492,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1493,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1494,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1495,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1496,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1497,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1498,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1499,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1500,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1501,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1502,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1503,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1504,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1505,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1506,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1507,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1508,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1509,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1510,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1511,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1512,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1513,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1514,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1515,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1516,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1517,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1518,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1519,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1520,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1521,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1522,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1523,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1524,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1525,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1526,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1527,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1528,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1529,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1530,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1531,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1532,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1533,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1534,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1535,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1536,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1537,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1538,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1539,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1540,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1541,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1542,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1543,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1544,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1545,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1546,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1547,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1548,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1549,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1550,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1551,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1552,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1553,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1554,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1555,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1556,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1557,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1558,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1559,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1560,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1561,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1562,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1563,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1564,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1565,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1566,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1567,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1568,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1569,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1570,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1571,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1572,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1573,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1574,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1575,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1576,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1577,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1578,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1579,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1580,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1581,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1582,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1583,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1584,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1585,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1586,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1587,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1588,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1589,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1590,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1591,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1592,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1593,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1594,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1595,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1596,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1597,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1598,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1599,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1600,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1601,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1602,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1603,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1604,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1605,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1606,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1607,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1608,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1609,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1610,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1611,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1612,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1613,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1614,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1615,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1616,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1617,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1618,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1619,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1620,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1621,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1622,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1623,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1624,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1625,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1626,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1627,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1628,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1629,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1630,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1631,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1632,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1633,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1634,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1635,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1636,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1637,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1638,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1639,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1640,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1641,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1642,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1643,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1644,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1645,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1646,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1647,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1648,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1649,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1650,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1651,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1652,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1653,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1654,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1655,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1656,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1657,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1658,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1659,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1660,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1661,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1662,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1663,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1664,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1665,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1666,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1667,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1668,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1669,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1670,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1671,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1672,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1673,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1674,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1675,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1676,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1677,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1678,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1679,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1680,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1681,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1682,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1683,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1684,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1685,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1686,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1687,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1688,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1689,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1690,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1691,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1692,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1693,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1694,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1695,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1696,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1697,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1698,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1699,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1700,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1701,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1702,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1703,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1704,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1705,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1706,94,BIO 200,General Botany,4,WF 10:05-11:30 AM and R 2:40-5:35 PM in FSH-211,Donald McClelland,,15,3,0
+1707,96,BIO 221,Anatomy,4,MWF 1:35-2:30 PM and F 1:05-4:00 PM in FSH-202,Susan Mechanic-Meyers,,15,8,0
+1708,125,BIO 223,Marine Biology,3,TR 9:00-10:25 AM in FSH-102,Amy Smith,,15,9,0
+1709,127,BIO 330,Herpetology,4,TR 1:05-2:30 PM and T 2:40-5:35 PM in FSH-211,Sarah Snyder,,14,5,0
+1710,185,BIO 334,Genetics: Genes and Genomes,4,TR 10:35-12:00 PM in FSH-102,Amy Smith,,15,8,0
+1711,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1712,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1713,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1714,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1715,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1716,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1717,121,CHEM 302,Organic Chemistry I,4,MWF 9:00-9:55 AM in FSH-113 and M 4:15-7:10 PM in FSH-128,Jessica Robbins,,15,4,0
+1718,122,CHEM 312,Biochemistry,4,TR 9:00-10:25 AM in FSH-112 and T 2:40-5:35 PM in FSH-128,Jessica Robbins,,10,3,0
+1719,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1720,130,CMPT 243,Algorithms and Data Structures,3,MWF 9:00-9:55 AM in FSH-112,Myo Thida,,15,8,0
+1721,189,CMPT 321,Introduction to Databases,4,MWF 1:35-2:30 PM in FSH-102,Sami Alshalwi,,15,9,0
+1722,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1723,211,ECON 305,(CLOSED)W Agency and Authority,4,MW 1:05-2:30 PM in CL3-09,Daniel Neilson,,15,16,1
+1724,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1725,61,HIST 254,Power and the People: U.S. Political History,3,W 6:05-9:00 PM in CL3-14,Justin Jackson,,15,4,0
+1726,5,LR 201M 1,(CLOSED)The Art of Tutoring Writing,1 p/f,M 4:15-5:45 PM in CL3-14,Nancy Bonvillain,,15,15,0
+1727,131,CMPT 370,Topics in Machine Learning,4,TR 1:05-2:30 PM in FSH-112,Myo Thida,,15,6,0
+1728,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1729,68,MATH 110,(CLOSED)Introduction to Statistics,3,MWF 10:05-11:00 AM in CL1-03,Kenneth Knox,WP,15,15,1
+1730,141,MATH 210 A,(CLOSED)Calculus I,3,MWF 9:00-9:55 AM in FSH-201,Kameryn Williams,WP,15,17,0
+1731,142,MATH 210 B,(CLOSED)Calculus I,3,MWF 10:05-11:00 AM in FSH-112,Kameryn Williams,WP,15,18,0
+1732,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1733,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1734,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1735,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1736,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1737,13,MATH 310,Complex Analysis,4,MWF 2:40-3:35 PM in CL1-01,Jack Burkart,,15,10,0
+1738,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1739,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1740,195,ARTH 218/318,Photographic Futures: Carceral Systems and Environmental Justice,3/4,MW 10:05-11:30 AM in DAC-025,Em Rooney and Zoey Lubitz,,15,4,0
+1741,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1742,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1743,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1744,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
+1745,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1746,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1747,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1748,18,PSYC 202,(CLOSED)Developmental Psychology,3,TR 10:35-12:00 PM in LEC-LC,Jennifer Daniels,,20,20,0
+1749,115,PSYC 203,(CLOSED)Social Psychology,3,MW 1:05-2:30 PM in LEC-LC,Anne O'Dwyer,,20,23,0
+1750,240,PSYC 224M 2,Expressive Arts,2,F 9:00-11:55 AM in DAC-125,Marney Schorr,,15,8,0
+1751,17,PSYC 252,Abnormal Psychology,3,TR 9:00-10:25 AM in CL1-02,Jennifer Daniels,,20,6,0
+1752,19,PSYC 330,Child and Adolescent Psychopathology and Treatment Methods,4,M 9:00-11:55 AM in CL3-13,Jennifer Daniels,,15,11,0
+1753,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1754,238,SOCS 309M 2,Readings in Research Methods,2,TR 1:05-2:30 PM in CL1-02,Anne O'Dwyer,,16,11,0
+1755,75,SART 208,Ceramic Sculpture Studio,3,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,4,0
+1756,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1757,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1758,76,SART 367/467,Advanced Ceramic Studio,4,TR 2:40-4:05 PM in DAC-072,Ben Krupka,,12,1,0
+1759,154,SART 219M 1,Leathercraft II,2,TR 2:40-4:05 PM in DAC-018,George Veale,,8,4,0
+1760,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1761,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1762,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1763,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1764,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1765,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1766,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1767,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1768,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1769,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1770,134,FILM 241/341,Fiction Film 2 - Directing,3/4,WF 2:40-4:05 PM in DAC-120,Dien Vo,WP,12,5,0
+1771,107,MUS 308,Counterpoint: The Essence of Western Musical Tradition,4,MW 2:40-4:05 PM in DAC-128,John Myers,WP,12,2,0
+1772,21,SART 239,Figure Painting,3,T 9:00-11:55 AM in DAC-124,Jacob Fossum,WP,12,6,0
+1773,65,THEA 206/306/406,Theater Production,3/4,MTR 6:05-9:00 PM in DAC-001,Aimee Michel,WP,15,10,0
+1774,180,THEA 207/307/407,Theater Production: Tech,1/4,F 10:00-12:30 PM in DAC-002,Leo Earl,WP,15,5,0
+1775,250,THEA 239AM 1,The Director Designer Collaboration: Process,2,MW 2:40-4:05 PM in DAC-135,Aimee Michel,WP,15,2,0
+1776,178,THEA 247/347,Solo Performance Workshop,3/4,MW 1:05-2:30 PM in DAC-002,Sara Katzoff,WP,15,3,0
+1777,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1778,37,CHIN 305,Advanced Chinese I,4,TF 2:40-4:05 PM in CL1-04,Ying Wang,WP,15,4,0
+1779,41,FREN 204,Intermediate French  I,3,TR 2:40-4:05 PM in CL3-10,Colette van Kerckvoorde,WP,15,4,0
+1780,309,FREN 204 A,Intermediate French  I,3,MWF 11:05-12:00 PM in CL3-11,David Franco Arabia,WP,15,3,0
+1781,40,GERM 204,Intermediate German I,3,MW 2:40-4:05 PM in HCC-Math tutor,Colette van Kerckvoorde,WP,15,2,0
+1782,194,SPAN 204,Intermediate Spanish I: Perspectives of Latin America,3,TR 1:05-2:30 PM in LIE-02,Daniel Giraldo-Wonders,WP,15,5,0
+1783,103,CHEM 100 A,Chemistry I,4,MWF 10:05-11:00 AM in FSH-102,David Myers,WP,20,10,0
+1784,104,CHEM 100 B,Chemistry I,4,MWF 11:10-12:05 PM in FSH-102,David Myers,WP,20,13,0
+1785,188,CMPT 242,Programming in C/C++,3,TR 10:35-12:00 PM in FSH-201,Sami Alshalwi,WP,15,9,0
+1786,120,MATH 109,Elementary Functions,3,MWF 10:05-11:00 AM in CL1-01,Robert Putz,WP,15,9,1
+1787,102,MATH 211,Calculus II,3,MWF 10:05-11:00 AM in CL1-04,Kaethe Minden,WP,15,6,0
+1788,143,MATH 217M 1,Introduction to Mathematical Proof,2,MWF 1:35-2:30 PM in CL1-01,Kameryn Williams,WP,15,2,0
+1789,186,MATH 218M 2,Nonbinary Thinking in Mathematics,2,MWF 12:30-1:25 PM in CL1-01,Kameryn Williams,WP,15,3,0
+1790,101,MATH 220,Linear Algebra,3,MWF 11:10-12:05 PM in CL1-04,Kaethe Minden,WP,15,12,0
+1791,119,MATH 221,Vector Calculus,3,MWF 9:00-9:55 AM in CL1-01,Robert Putz,WP,15,6,0
+1792,243,MATH 320,Group Theory,4,MWF 1:35-2:30 PM in CL1-04,Kaethe Minden,WP,15,4,0
+1793,69,PHYS 100 A,Physics I,4,MWF 11:10-12:05 PM in FSH-113,Eric Kramer,WP,18,13,0
+1794,70,PHYS 100 B,Physics I,4,MWF 1:35-2:30 PM in FSH-113,Eric Kramer,WP,18,12,0
+1795,2,PHYS 220,Introduction to Quantum Physics,3,MWF 10:05-11:00 AM in FSH-113,Sameer Hamadna,WP,20,9,0
+1796,3,PHYS 230,Modern Physics Laboratory,1,R 2:40-5:35 PM in FSH-113,Sameer Hamadna,WP,16,5,0
+1797,236,POLS 229,"The Ignorance of Schoolmasters and the Scandal of Democracy: Education, Emancipation,
+                              Politics",3,MW 8:30-9:55 AM in ONL-,Asma Abbas,WP,15,8,0
+1798,260,CHIN 220/320,CP Masterpieces of Chinese Fiction,3/4,TR 4:15-5:40 PM in CL3-12,Ying Wang,WP,15,10,0
+1799,105,CHEM 100L A,Chemistry I Lab,0,T 9:00-11:55 AM in FSH-128,David Myers,WP,10,5,0
+1800,106,CHEM 100L B,Chemistry I Lab,0,R 9:00-11:55 AM in FSH-128,David Myers,WP,10,4,0
+1801,138,CHEM 100L D,Chemistry I Lab,0,R 2:40-5:35 PM in FSH-128,Daniel Wendekier,WP,10,8,0
+1802,139,CHEM 100L E,Chemistry I Lab,0,F 1:05-4:00 PM in FSH-128,Daniel Wendekier,WP,10,6,0
+1803,71,PHYS 100L A,Physics I Lab,0,T 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,10,0
+1804,72,PHYS 100L B,Physics I Lab,0,F 2:40-5:35 PM in FSH-113,Eric Kramer,WP,18,15,0
